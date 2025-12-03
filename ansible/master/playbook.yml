@@ -1,0 +1,7 @@
+---
+- name: Install Kube Control Pane
+  hosts: master
+
+  vars:
+
+  tasks:
